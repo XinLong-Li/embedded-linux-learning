@@ -25,12 +25,12 @@
 
 | 阶段 | 内容 | 目标 | 关键产出 |
 |------|------|------|----------|
-| [阶段一](./phase1-linux-basics.md) | Linux 基础操作 | 熟练使用 Linux 作为日常开发环境 | Shell 脚本工具箱 |
-| [阶段二](./phase2-c-deep-dive.md) | C 语言深度进修 | 掌握嵌入式 C 编程核心技能 | 数据结构库 / 小型项目 |
-| [阶段三](./phase3-os-concepts.md) | 操作系统核心概念 | 理解 OS 运行原理 | Mini-OS 玩具内核 |
-| [阶段四](./phase4-linux-kernel.md) | Linux 内核初步 | 理解内核架构与驱动模型 | 字符设备驱动 |
-| [阶段五](./phase5-embedded-linux.md) | 嵌入式 Linux 实战 | 掌握移植与裁剪全流程 | 自制嵌入式 Linux 系统 |
-| [阶段六](./phase6-projects.md) | 综合项目实战 | 独立完成项目 | 完整嵌入式产品原型 |
+| [阶段一](./phases/phase1-linux-basics.md) | Linux 基础操作 | 熟练使用 Linux 作为日常开发环境 | Shell 脚本工具箱 |
+| [阶段二](./phases/phase2-c-deep-dive.md) | C 语言深度进修 | 掌握嵌入式 C 编程核心技能 | 数据结构库 / 小型项目 |
+| [阶段三](./phases/phase3-os-concepts.md) | 操作系统核心概念 | 理解 OS 运行原理 | Mini-OS 玩具内核 |
+| [阶段四](./phases/phase4-linux-kernel.md) | Linux 内核初步 | 理解内核架构与驱动模型 | 字符设备驱动 |
+| [阶段五](./phases/phase5-embedded-linux.md) | 嵌入式 Linux 实战 | 掌握移植与裁剪全流程 | 自制嵌入式 Linux 系统 |
+| [阶段六](./phases/phase6-projects.md) | 综合项目实战 | 独立完成项目 | 完整嵌入式产品原型 |
 
 ---
 
@@ -56,7 +56,7 @@
 
 ## 📚 核心推荐资源
 
-详见 [resources.md](./resources.md)
+详见 [resources.md](./reference/resources.md) | 硬件平台：[hardware-platforms.md](./hardware/hardware-platforms.md)
 
 ### 必读书籍
 1. 《鸟哥的 Linux 私房菜 — 基础学习篇》
@@ -77,4 +77,4 @@
 
 ---
 
-**开始学习吧！快速 review [阶段一](./phase1-linux-basics.md) 的编译工具链部分，然后进入 [阶段二：C 语言深度进修](./phase2-c-deep-dive.md) 🚀**
+**开始学习吧！快速 review [阶段一](./phases/phase1-linux-basics.md) 的编译工具链部分，然后进入 [阶段二：C 语言深度进修](./phases/phase2-c-deep-dive.md) 🚀**
