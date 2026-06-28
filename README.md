@@ -56,7 +56,7 @@
 
 ## 📚 核心推荐资源
 
-详见 [resources.md](./reference/resources.md) | 硬件平台：[hardware-platforms.md](./hardware/hardware-platforms.md)
+详见 [resources.md](./reference/resources.md) | 硬件平台：[平台总览](./hardware/hardware-platforms.md) | 异构多核：[AMP架构详解](./hardware/heterogeneous-amp-architecture.md)
 
 ### 必读书籍
 1. 《鸟哥的 Linux 私房菜 — 基础学习篇》
