@@ -1,0 +1,12 @@
+{
+    "workbench.editorAssociations": {
+        "*.md": "vscode.markdown.preview.editor"
+    },
+    "markdown.preview.scrollEditorWithPreview": true,
+    "markdown.preview.scrollPreviewWithEditor": true,
+    "markdown.preview.doubleClickToSwitchToEditor": false,
+    "workbench.colorCustomizations": {
+        // "sideBar.background": "#1e1e2e",
+        // "sideBarTitle.foreground": "#cdd6f4"
+    }
+}
