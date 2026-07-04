@@ -68,6 +68,11 @@
 | Linux Kernel Programming (Free Electrons/Bootlin) | YouTube | 内核编程教程 |
 | 6.S081 (MIT) | YouTube | MIT 操作系统工程，xv6 + risc-v |
 
+### 🛠️ 工具深入指南
+| 工具 | 链接 | 说明 |
+|------|------|------|
+| ⭐ QEMU 完全指南 | [qemu-guide.md](./qemu-guide.md) | QEMU 原理、架构、命令速查、实战示例、常见问题 |
+
 ### 实战练习
 | 资源 | 链接 | 说明 |
 |------|------|------|
