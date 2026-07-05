@@ -561,6 +561,14 @@ ROS 机器人、5G IoT 网关、无人机、AI 相机、工业视觉
 
 ---
 
+## 🧭 学习板选型
+
+> 📖 **手头已有开发板？** 先看 [学习板选型指南](./board-selection-guide.md)
+>
+> 🎯 **准备买第一块板？** 看 [初学者开发板选购指南](./beginner-board-guide.md) — i.MX 6ULL vs RK3568 vs STM32MP157F-DK2 全面对比
+
+---
+
 ## 📊 选型决策指南
 
 ### 按应用场景推荐

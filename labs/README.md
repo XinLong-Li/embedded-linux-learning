@@ -10,6 +10,8 @@
 
 ## 🎯 推荐硬件
 
+> 📖 **手头已经有 Jetson TX2 或树莓派 3B？** 先看 [学习板选型指南](../hardware/board-selection-guide.md)，评估手头板子的学习匹配度。**不是非要买 STM32MP157F-DK2 才能学！**
+
 ### 首推：STM32MP157F-DK2（约 ¥800-1200）
 
 ```\
