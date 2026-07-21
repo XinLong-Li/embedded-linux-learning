@@ -8,5 +8,6 @@
     "workbench.colorCustomizations": {
         // "sideBar.background": "#1e1e2e",
         // "sideBarTitle.foreground": "#cdd6f4"
-    }
+    },
+    "ROS2.distro": "humble"
 }
